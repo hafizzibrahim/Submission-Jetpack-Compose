@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">JetCodeApp</string>
+    <string name="header">Code App</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="menu_about">About</string>
+    <string name="search">Search</string>
+    <string name="picture_profile">https://lh3.googleusercontent.com/a/ACg8ocJ0o8p10BSY3_Hu8qZ3iz8zxhDZj_9bshMN9kRmCrOdMA=s288-c-no</string>
+    <string name="name">Hafiz Ibrahim</string>
+    <string name="email">hafizibrahim1173@gmail.com</string>
+    <string name="empty_favorite">No Favorite List Yet</string>
+    <string name="back">Back</string>
+    <string name="category_list">Code List Menu</string>
+    <string name="add_favorite">Add Favorite</string>
+</resources>
